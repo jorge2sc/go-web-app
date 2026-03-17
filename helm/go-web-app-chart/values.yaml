@@ -4,7 +4,7 @@ replicaCount: 1
 
 image:
   repository: jorge2sc/go-web-app
-  tag: 23205109868
+  tag: 23207492426
   pullPolicy: IfNotPresent
 
 service:
